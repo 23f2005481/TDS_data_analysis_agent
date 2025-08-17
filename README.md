@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-Meet **Data Analyst Agent 2.0** — your AI-driven partner for data exploration and analysis.
+Meet **Data Analyst Agent** — your AI-driven partner for data exploration and analysis.
 
 Forget manual crunching — just upload your dataset + questions, and get:
 ✅ Clean visual reports
